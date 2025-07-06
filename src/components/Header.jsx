@@ -9,7 +9,7 @@ const Header = ({ isDarkMode, toggleDarkMode }) => {
 
   return (
     <header className="fixed w-full top-0 z-50 bg-white/80 dark:bg-gray-600/80 backdrop-blur-sm">
-      <nav className="container mx-auto px-6 py-4">
+      <nav className="container mx-auto px-8 py-4">
         <div className="flex items-center justify-between">
           <h1 className="text-2xl font-bold text-blue-600 dark:text-blue-400">RK</h1>
           <div className="flex items-center space-x-8">

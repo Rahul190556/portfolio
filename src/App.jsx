@@ -5,6 +5,7 @@ import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import SocialSidebar from './components/SocialSidebar';
+import Achievements from './components/Achievements';
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(true);
@@ -28,6 +29,7 @@ function App() {
       <Hero />
       <Projects />
       <Skills />
+      <Achievements/>
       <Contact />
     </div>
   );
