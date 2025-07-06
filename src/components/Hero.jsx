@@ -44,7 +44,7 @@ const Hero = () => {
             View My Work
           </button>
           <a
-            href="https://drive.google.com/file/d/1jaeh_TL0QmyzZgZp8JI5gUFDYIxF7W0A/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1s5dXd4YXtj0zslQpW8vJBuOHjWLErtaE/view?usp=drivesdk"
             download
             className="flex items-center gap-2 bg-gray-500 hover:bg-gray-600 text-white px-8 py-3 rounded-full transition-all transform hover:scale-105 shadow-lg"
           >
